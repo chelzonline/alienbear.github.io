@@ -95,7 +95,13 @@ a:active {
   bottom: 0px;
 }
 
-.footer_text {
+.ab_image {
+    font-size: 1vw;
+    float: right;
+    margin-right: 20px;
+}
+
+.footertext_right {
     font-size: 1vw;
     float: right;
     margin-right: 20px;
