@@ -29,6 +29,14 @@ p {
   font-size: 1.5vw;
 }
 
+.header_text {
+  color:  #ff66bf;
+}
+
+.link_text {
+  color:  #ff66bf;
+}
+
 /* links */
 a:link {
   color: black;
@@ -42,12 +50,12 @@ a:visited {
 }
 
 a:hover {
-  color: grey;
+  color: blue;
   text-decoration: none;
 }
 
 a:active {
-  color: blue;
+  color: #cccccc;
   text-decoration: none;
 }
 
@@ -77,6 +85,20 @@ a:active {
   font-size: 2.8vw;
   padding: 1.5vw;
   text-decoration: none;
+}
+
+.footer {
+  background-color: #d9d9d9;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+}
+
+.footer_text {
+    font-size: 1vw;
+    float: right;
+    margin-right: 20px;
 }
 
 
