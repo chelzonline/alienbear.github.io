@@ -4,12 +4,12 @@ html {
 }
 
 h1 {
-  font-size: 4vw;
+  font-size: 3vw;
   font-weight: 700;
 }
 
 h2 {
-  font-size: 3vw;
+  font-size: 2vw;
 }
 
 body {
@@ -21,13 +21,13 @@ body {
 }
 
 p {
-  font-size: 2.5vw;
+  font-size: 1.5vw;
 }
 
 /* links */
 a:link {
   color: #57f807;
-  font-size: 2.5vw;
+  font-size: 1.5vw;
   text-decoration: none;
 }
 
